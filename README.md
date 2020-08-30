@@ -5,6 +5,6 @@
 #### 🎓 Computer Engineer Undergraduate student at Federal University of Technology - Paraná
 #### ✈️ ex Engineering Intern at Embraer
 #### 🗺️ I'm currently writing my undergraduate thesis on Data Geoprocessing using Computer Vision on Remote Sensing data.
-#### 🌱 Experience in C/C++, Python, Java, Javascript (NodeJS, React), Embedded and Control Systems design, Machine learning frameworks (Tensorflow, Keras, Caffe, Scikit-Learn), Computer Vision and Image Processing.
+#### 🌱 Experience in C/C++, Python, Javascript (NodeJS, React), Embedded and Control Systems design, Machine learning frameworks (Tensorflow, Keras, Scikit-Learn), Computer Vision and Image Processing.
 
 > No-one knows what the future holds. That's why its potential is infinite.
